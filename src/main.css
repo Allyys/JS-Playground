@@ -47,3 +47,10 @@ p span {
   padding: 0.5vh;
   border-radius: 2px;
 }
+
+.example-array {
+  font-family: monospace;
+  background-color: tan;
+  font-size: 1.5em;
+  width: 80vw;
+}
