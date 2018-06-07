@@ -36,4 +36,14 @@ nav {
 }
 p {
   padding: 2vh;
+  line-height: 1.5;
+}
+p span {
+  font-family: monospace;
+  colour: blue;
+  font-size: 1.5em;
+  background-color: yellow;
+  border: 0.5px solid black;
+  padding: 0.5vh;
+  border-radius: 2px;
 }
